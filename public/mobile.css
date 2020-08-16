@@ -1,0 +1,32 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    width: 94%;
+    margin: 4% auto;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h4 {
+    margin: 4% 2%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #333;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #999;
+    text-decoration: none;
+}
