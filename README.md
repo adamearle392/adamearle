@@ -1,4 +1,5 @@
 # adamearle.co.uk
 
-# This is my personal website.
-# Experience, Education, Projects.
+# this is my personal website
+
+# experience / education / projects
